@@ -1,4 +1,4 @@
-package ModelProduto;
+package com.prova.ModelProduto;
 
 public enum StatusProduto {
     DISPONIVEL,
